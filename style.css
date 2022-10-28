@@ -1,0 +1,59 @@
+
+body{
+    font-size: 100%;
+    list-style-type: none;
+}
+
+header{
+    /*border: solid 5px;*/
+}
+
+.cabecalho{
+    width: 100%;
+}
+
+main {
+    width: 100%;
+    background: linear-gradient(to bottom, rgb(21, 189, 223), rgb(0, 255, 213));
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+
+.título {
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+}
+
+.centro {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+.vermelho{
+    color: red;
+}
+
+.guido {
+    width: 25%;
+    border: solid yellow 10px;
+    margin-left: 35%;
+    padding: 20px;
+}
+
+h4 {
+    color: blue;
+}
+
+.imagem{
+border:  solid 5px red;
+}
+
+.hinosaojoao{
+/*border: solid 5px green;*/
+background-color: white;
+margin: 100px 30% 10px 30%;
+}
